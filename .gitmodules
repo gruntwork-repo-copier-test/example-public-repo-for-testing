@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = https://github.com/gruntwork-repo-copier-test/example-public-repo-for-testing-subrepo.git
